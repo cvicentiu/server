@@ -1,7 +1,7 @@
 ## MariaDB: drop-in replacement for MySQL
 
 MariaDB is designed as a drop-in replacement of MySQL(R) with more
-features, new storage engines, fewer bugs, and better performance.
+features, new storage engines, fewer bugs, and much better performance.
 
 MariaDB is brought to you by the MariaDB Foundation.
 Please read the CREDITS file for details about the MariaDB Foundation,
