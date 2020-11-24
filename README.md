@@ -1,4 +1,4 @@
-Code status:
+CCCode status:
 ------------
 
 * [![Travis CI status](https://secure.travis-ci.org/MariaDB/server.png?branch=10.5)](https://travis-ci.org/MariaDB/server) travis-ci.org (10.5 branch)
