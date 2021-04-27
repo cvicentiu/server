@@ -79,4 +79,6 @@ https://mariadb.org/about/security-policy/
 The code for MariaDB, including all revision history, can be found at:
 https://github.com/MariaDB/server
 
+Simple FF push
+
 ***************************************************************************
