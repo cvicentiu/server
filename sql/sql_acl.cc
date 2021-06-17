@@ -14852,6 +14852,7 @@ extern "C" void maria_update_hostname(
   *wild_host= h.hostname;
   *wild_ip= h.ip;
   *ip_mask= h.ip_mask;
+
 #endif
 }
 
